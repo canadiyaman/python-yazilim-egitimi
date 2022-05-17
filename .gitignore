@@ -1,0 +1,6 @@
+# pycharm dosyaları
+.idea
+
+# proje ek kullanılan paketler
+venv
+
